@@ -1,0 +1,1 @@
+This is an academic project that included study of lithium ion battery life cycle. A Deep Learning LSTM model was developed for predicting the RUL (Remaining Useful Life) of a given battery at a point of time in its use.

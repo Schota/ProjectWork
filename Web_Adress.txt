@@ -1,0 +1,1 @@
+https://predict-car-mile-per-gallon.herokuapp.com/predict

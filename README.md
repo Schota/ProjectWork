@@ -1,1 +1,1 @@
-Please find all the relevant shared files and documnets of my projects in branches with indicative names of the projects. 
+This includes files with codes for Credit Card Detection model that uses Deep Learning for dealing with highly imbalnced data. The main objective here is to maintain very low false negative predictions to avoid heavy economic losses.

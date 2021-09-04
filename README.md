@@ -1,1 +1,1 @@
-This project uses Natural Language Processing to classify a given news headline into one of the four news categories. 
+This project uses Natural Language Processing to classify a given news headline into one of the four news categories. We apply LSTM RNN to learn huge number of parameters and achieve 93% accuracy on test data.

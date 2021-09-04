@@ -1,1 +1,1 @@
-Please find all the relevant shared files and documnets of my projects in branches with indicative names of the projects.
+This project uses Natural Language Processing to classify a given news headline into one of the four news categories. 
